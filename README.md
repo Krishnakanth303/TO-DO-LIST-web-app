@@ -221,10 +221,4 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - [Lucide](https://lucide.dev) for the beautiful icons
 - [Unsplash](https://unsplash.com) for the preview images
 
-## 📞 Support
-
-If you have any questions or need help setting up the project, please open an issue on GitHub.
-
----
-
-**Made with ❤️ by [Your Name]**#
+**Made with ❤️ by [KRISHNA KANTH URS K M]
