@@ -41,7 +41,7 @@ A modern, production-ready todo application built with React, TypeScript, and Su
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/taskflow-todo-app.git
+git clone https://github.com/YOUR_USERNAME/TO-DO-LIST-web-app.git
 cd taskflow-todo-app
 ```
 
@@ -90,7 +90,7 @@ The application will be available at `http://localhost:5173`
 ## 📁 Project Structure
 
 ```
-taskflow-todo-app/
+TO-DO-LIST-web-app/
 ├── src/
 │   ├── components/          # React components
 │   │   ├── AuthForm.tsx     # Authentication form
